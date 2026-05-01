@@ -1,6 +1,6 @@
 # Lone Star CleanChem Inc
 
-Founder: Ji Xin
+Founder Founder: Ji Xin CEO: Ji Xin
 
 Lone Star CleanChem Inc is a biotechnology company focused on sustainable antimicrobial solutions for agriculture and livestock biosecurity.
 
